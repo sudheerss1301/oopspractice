@@ -6,5 +6,6 @@ public class BlockStatic {
 	}
 	public static void main(String[] args) {
 		System.out.println("see what happened");
+		System.out.println("see what happened");
 	}
 }
